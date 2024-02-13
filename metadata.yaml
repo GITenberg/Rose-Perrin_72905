@@ -1,0 +1,27 @@
+_repo: Rose-Perrin_72905
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pujo, Alice
+    gutenberg_agent_id: '56856'
+    url: http://www.gutenberg.org/2009/agents/56856
+description: ''
+gutenberg_issued: '2024-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72905'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k3397548h
+pgterms:marc905: 20240202122817pujo
+pgterms:marc906: '1922'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bPlon, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rose Perrin
+url: http://www.gutenberg.org/ebooks/72905
